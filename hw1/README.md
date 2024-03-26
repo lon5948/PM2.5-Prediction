@@ -1,6 +1,6 @@
 ## Introduction
 Implement **linear regression** using only numpy to predict the value of PM2.5
-| [kaggle link](https://www.kaggle.com/t/4241d949d7dd49ac8a9b518994347166)
+> [kaggle](https://www.kaggle.com/t/4241d949d7dd49ac8a9b518994347166)
 
 ## Dataset 
 Hsinchu meteorological observation data form Central Weather Bureau.
